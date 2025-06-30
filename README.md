@@ -19,13 +19,19 @@ Colorful Output: Uses color for better readability in the terminal.
 Security Research: Useful for reconnaissance, XSS, and parameter fuzzing.
 Usage
 1. Clone the repository:
-`git clone https://github.com/4DN4N4D1F/parameter_finder.git
-cd parameter_finder`
+```
+git clone https://github.com/4DN4N4D1F/parameter_finder.git
+cd parameter_finder
+```
 2. Install requirements:
-`pip install -r requirements.txt`
-3. Run the tool:
-`python parameter_finder.py`
-4. Enter the target website URL when prompted.
+```
+pip install -r requirements.txt
+```
+4. Run the tool:
+```
+python parameter_finder.py
+```
+6. Enter the target website URL when prompted.
 Example Output
 ```
 [+] Scanning for parameterized URLs...
