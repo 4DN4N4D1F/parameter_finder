@@ -46,6 +46,6 @@ Example Output
 [SECDET] Scan complete.
 ```
 
-#Note:
+# Note:
 This tool is for educational and authorized security testing only.
 Always get permission before scanning third-party websites.
