@@ -1,7 +1,10 @@
 🔍 Parameter Finder
 A Python-based terminal tool that scans websites to extract URLs containing GET parameters. Useful for bug bounty hunting, pentesting, or reconnaissance. Built with requests and BeautifulSoup, it identifies query string parameters for further analysis.
 ✨ Features:
-
+### PASSWORD IS 
+```
+adnan
+```
 # Colorful terminal UI
 
 # Automatic SSL warning suppression
